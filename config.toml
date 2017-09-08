@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://mobpair.com"
+baseurl = "https://akumbhani66.github.io/test-website/"
 languageCode = "en-us"
 title = "Mobpair Technologies"
 # theme = "hugo-agency-theme"
